@@ -1,1 +1,5 @@
-# Computer-Lab-1-CL1-programs
+computer lab 1
+cl1
+unipune
+parallel quicksort
+binary search
