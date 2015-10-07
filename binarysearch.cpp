@@ -33,7 +33,6 @@ int main(){int key;
 	cin>>key;
 	int itr=0;
 	bsearch(arr,0,n-1,key,itr);
-	//cout<<"the number found at index "<<index;
 	return 0;
 	}
 }
