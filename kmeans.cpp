@@ -3,7 +3,7 @@
 // Author      : poizen
 // Version     :
 // Copyright   : opensource for life
-// Description : Hello World in C++, Ansi-style
+// Description : kmeans 
 //============================================================================
 
 #include <iostream>
